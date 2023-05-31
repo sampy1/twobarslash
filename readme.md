@@ -24,7 +24,10 @@ hr.red {border-top: 3px dashed red;}
 </style>
 
 
-# <div class='header'>Barndominiums</div>
- [Buidmax](https://buildmax.com/barndominiums/)
+# <div class='header'>PADDOCKS</div>
+
+# <div class='header'>BARNDOMINIUMS</div>
+[Buidmax](https://buildmax.com/barndominiums/)
 
 # <div class="header">REFERENCES</div>
+[Template:](template.md) This is a general template for the Mark Down pages.
