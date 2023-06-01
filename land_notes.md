@@ -28,13 +28,7 @@ hr.red {border-top: 3px dashed red;}
 
 `templates`
 
-The template folder contains static content such that can be used as a starting place.
-For example the readme_file_template.md file located in this directory. This file
-can be copied, renamed, and edited to as appropriate. 
-
-As lessons are learned the templates will be edited to suggest to better coding practices
-it is left to the authors to remain consistent to the templates. These are just good
-practice guides and starting places.
+https://modnr.maps.arcgis.com/apps/webappviewer/index.html?id=7b998ce5e0a343848c060b1c0e3ce5a1
 
 # <div class="header">REFERENCES</div>
 * [The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
