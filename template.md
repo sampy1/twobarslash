@@ -8,6 +8,11 @@ Description: This file provides the general description for the templates folder
 
 <style>
 
+body, p{
+    font-family: "Computer Modern", Times, serif;
+}
+
+
 r { color: Red}      /* Fail */
 o { color: Orange }  /* Wait */
 g { color: Green }   /* Pass */
@@ -16,6 +21,7 @@ l { color: Blue }
 hr.red {border-top: 3px dashed red;}
 
 .header {
+    font-family: "Computer Modern", Times, serif;
     color: Yellow;
     width: auto;
     background-color: Blue;
