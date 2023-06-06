@@ -30,8 +30,10 @@ hr.red {border-top: 3px dashed red;}
 
 
 # <div class='header'>BARNDOMINIUM</div>
-[Design Buidling](https://www.worldwidesteelbuildings.com/3d-building-designer/)
-[Building a Barndominium in Missouri | Your Ultimate Guide](https://www.barndominiumlife.com/building-a-barndominium-in-missouri/)
++ [Design Buidling](https://www.worldwidesteelbuildings.com/3d-building-designer/)
++ [Building a Barndominium in Missouri | Your Ultimate Guide](https://www.barndominiumlife.com/building-a-barndominium-in-missouri/)
++ [Barn Pros](https://barnpros.com/structures/teton/the-teton-24)
+++ [Barn Pros Catalog](file:///G:/My%20Drive/Dev/twobarslash/docs/Barn-Pros.pdf)
 
 # <div class="header">REFERENCES</div>
 * [The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
